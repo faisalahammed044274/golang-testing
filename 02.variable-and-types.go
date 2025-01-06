@@ -5,10 +5,10 @@ import "fmt"
 
 func main(){
 /*
-int
-float32
-bool
-string
+int = int, int8, int16, int32, int64, uint = uint, uint8, uint16, uint
+float = float32 , float64, complex64, complex128, uintptr = uintptr
+bool = byte, rune, string, error = error
+string = string
 */
 
 //var a int = 10
